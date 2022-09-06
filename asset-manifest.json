@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/React_Redux_TelestraAssignment/static/css/main.21386964.css",
-    "main.js": "/React_Redux_TelestraAssignment/static/js/main.aed65c52.js",
+    "main.css": "/React_Redux_TelestraAssignment/static/css/main.02450682.css",
+    "main.js": "/React_Redux_TelestraAssignment/static/js/main.0c043b7f.js",
     "index.html": "/React_Redux_TelestraAssignment/index.html",
-    "main.21386964.css.map": "/React_Redux_TelestraAssignment/static/css/main.21386964.css.map",
-    "main.aed65c52.js.map": "/React_Redux_TelestraAssignment/static/js/main.aed65c52.js.map"
+    "main.02450682.css.map": "/React_Redux_TelestraAssignment/static/css/main.02450682.css.map",
+    "main.0c043b7f.js.map": "/React_Redux_TelestraAssignment/static/js/main.0c043b7f.js.map"
   },
   "entrypoints": [
-    "static/css/main.21386964.css",
-    "static/js/main.aed65c52.js"
+    "static/css/main.02450682.css",
+    "static/js/main.0c043b7f.js"
   ]
 }
